@@ -1,0 +1,440 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.3.23)  2 MAY 2010 21:42
+entering extended mode
+**C:/Users/Jakob/Documents/My*Dropbox/Uni/Communications*Engineering*SE/GitHub*
+Rep/Tans/CE/TAN/TAN.tex
+
+("C:/Users/Jakob/Documents/My Dropbox/Uni/Communications Engineering SE/GitHub 
+Rep/Tans/CE/TAN/TAN.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+
+("C:\Users\Jakob\Documents\My Dropbox\Uni\Communications Engineering SE\GitHub 
+Rep\Tans\CE\TAN\llncs.cls"
+Document Class: llncs 2004/08/17 v2.14 
+ LaTeX document class for Lecture Notes in Computer Science
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\tools\multicol.sty"
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count87
+\mult@box=\box26
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count88
+\c@collectmore=\count89
+\doublecol@number=\count90
+\multicoltolerance=\count91
+\multicolpretolerance=\count92
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count93
+\c@finalcolumnbadness=\count94
+\last@try=\dimen108
+\multicolovershoot=\dimen109
+\multicolundershoot=\dimen110
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+)
+\c@chapter=\count95
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 360.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 361.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 370.
+\tocchpnum=\dimen111
+\tocsecnum=\dimen112
+\tocsectotal=\dimen113
+\tocsubsecnum=\dimen114
+\tocsubsectotal=\dimen115
+\tocsubsubsecnum=\dimen116
+\tocsubsubsectotal=\dimen117
+\tocparanum=\dimen118
+\tocparatotal=\dimen119
+\tocsubparanum=\dimen120
+\@tempcntc=\count96
+\fnindent=\dimen121
+\c@@inst=\count97
+\c@@auth=\count98
+\c@auco=\count99
+\instindent=\dimen122
+\authrun=\box52
+\authorrunning=\toks14
+\tocauthor=\toks15
+\titrun=\box53
+\titlerunning=\toks16
+\toctitle=\toks17
+\c@theorem=\count100
+\c@case=\count101
+\c@conjecture=\count102
+\c@corollary=\count103
+\c@definition=\count104
+\c@example=\count105
+\c@exercise=\count106
+\c@lemma=\count107
+\c@note=\count108
+\c@problem=\count109
+\c@property=\count110
+\c@proposition=\count111
+\c@question=\count112
+\c@solution=\count113
+\c@remark=\count114
+\headlineindent=\dimen123
+)
+("C:\Users\Jakob\Documents\My Dropbox\Uni\Communications Engineering SE\GitHub 
+Rep\Tans\CE\TAN\llncsdoc.sty")
+("C:\Program Files\MiKTeX 2.8\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count115
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(C:\Users\Jakob\AppData\Roaming\MiKTeX\2.8\tex\latex\german\ngerman.sty
+v2.5e 1998-07-08
+Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+\grmnU@D=\dimen126
+ngerman -- \language number for naustrian undefined, default 4 used.
+)
+
+! LaTeX Error: Option clash for package inputenc.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \usepackage
+                [ngerman]{babel}
+The package inputenc has already been loaded with options:
+  [latin1]
+There has now been an attempt to load it with options
+  [utf8]
+Adding the global options:
+  latin1,utf8
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+("C:\Program Files\MiKTeX 2.8\tex\generic\babel\babel.sty"
+Package: babel 2008/07/06 v3.8l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.8\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.8\tex\generic\babel\ngermanb.ldf"
+Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
+
+("C:\Program Files\MiKTeX 2.8\tex\generic\babel\babel.def"
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count116
+\U@D=\dimen127
+)))
+("C:\Program Files\MiKTeX 2.8\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+No file TAN.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+("C:\Program Files\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen128
+\scratchbox=\box54
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen129
+\MPnumerator=\count121
+\everyMPtoPDFconversion=\toks23
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
+ ("C:\Program Files\MiKTeX 2.8\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 35.
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [1
+
+
+{C:/Users/Jakob/AppData/Local/MiKTeX/2.8/pdftex/config/pdftex.map}] [2]
+! Double superscript.
+l.78 $$F^n^
+           -^1(x),..., F(F(F(F(x))), F(F(x))), F(x), x$$
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.78 $$F^n^-^
+             1(x),..., F(F(F(F(x))), F(F(x))), F(x), x$$
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+[3] <SKEY.jpg, id=23, 375.65344pt x 246.1697pt>
+File: SKEY.jpg Graphic file (type jpg)
+ <use SKEY.jpg> [4 <C:/Users/Jakob/Documents/My Dropbox/Uni/Communications Engi
+neering SE/GitHub Rep/Tans/CE/TAN/SKEY.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 \\F
+         ?r die Authentifizierung des Clients zum Server werden ausschlie?li...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Double superscript.
+l.104 $p_i=f^i(s|k)=f(f^(^
+                          i^-^1^)(s|k))=f(p_i_-_1)$
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.104 $p_i=f^i(s|k)=f(f^(^i^
+                            -^1^)(s|k))=f(p_i_-_1)$
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.104 $p_i=f^i(s|k)=f(f^(^i^-^
+                              1^)(s|k))=f(p_i_-_1)$
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.104 $p_i=f^i(s|k)=f(f^(^i^-^1^
+                                )(s|k))=f(p_i_-_1)$
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double subscript.
+l.104 $p_i=f^i(s|k)=f(f^(^i^-^1^)(s|k))=f(p_i_
+                                              -_1)$
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.104 $p_i=f^i(s|k)=f(f^(^i^-^1^)(s|k))=f(p_i_-_
+                                                1)$
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.108 $f(p_i_
+             -_1)=p_i$
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.108 $f(p_i_-_
+               1)=p_i$
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.111 ...p_i$ durch das verbrauchte Passwort $p_i_
+                                                  -_1$ und erniedrigt seinen...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.111 ...i$ durch das verbrauchte Passwort $p_i_-_
+                                                  1$ und erniedrigt seinen S...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+! Double subscript.
+l.115 $p_i_
+           -_1=f^-^1(p_i)$
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double subscript.
+l.115 $p_i_-_
+             1=f^-^1(p_i)$
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Double superscript.
+l.115 $p_i_-_1=f^-^
+                   1(p_i)$
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+[5]
+! Double superscript.
+l.121 $f^r^
+           -^j(p_j)=p_r$
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Double superscript.
+l.121 $f^r^-^
+             j(p_j)=p_r$
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--166
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 167--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--174
+
+ []
+
+[7]
+("C:\Users\Jakob\Documents\My Dropbox\Uni\Communications Engineering SE\GitHub 
+Rep\Tans\CE\TAN\TAN.aux")
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2355 strings out of 495285
+ 28484 string characters out of 3180394
+ 88630 words of memory out of 3000000
+ 5536 multiletter control sequences out of 15000+200000
+ 14917 words of font info for 43 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 29i,6n,24p,1334b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Jakob\AppData\Local\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecbx1000.pk> <C:\Users\Jakob\AppData\Local\MiKTeX\2.8\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecbx1200.pk> <C:\Users\Jakob\AppData\Local\MiKTeX\2.8\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecbx0900.pk> <C:\Users\Jakob\AppData\Local\MiKTeX\2.8\fonts
+\pk\ljfour\jknappen\ec\dpi600\ectt0900.pk> <C:\Users\Jakob\AppData\Local\MiKTeX
+\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Users\Jakob\AppData\Lo
+cal\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Jakob\
+AppData\Local\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk><C:/Pro
+gram Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fil
+es/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX
+ 2.8/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.8/font
+s/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/ams
+fonts/cm/cmsy7.pfb>
+Output written on TAN.pdf (7 pages, 182096 bytes).
+PDF statistics:
+ 346 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
