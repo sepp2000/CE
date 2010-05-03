@@ -1,0 +1,15 @@
+Jakob
+
+Generell
+C:\Users\Jakob\Documents\My Dropbox\Uni\Communications Engineering SE\CE SE\Quellen\Andi 2.0
+A Model for Securing E-Banking Authentication
+
+GANZ WICHTIG - Für iTAN, Challenge Response, Timebased, mTAN usw. 
+C:\Users\Jakob\Documents\My Dropbox\Uni\Communications Engineering SE\CE
+Enhancing authentication in eBanking
+
+SMS mTAn
+C:\Users\Jakob\Documents\My Dropbox\Uni\Communications Engineering SE\CE SE\Quellen\Andi 2.0\Mobile
+An Experimental Investigation of the Usability of Transaction Authorization
+
+
