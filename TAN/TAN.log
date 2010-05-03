@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.3.23)  2 MAY 2010 21:42
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.3.23)  3 MAY 2010 13:01
 entering extended mode
 **C:/Users/Jakob/Documents/My*Dropbox/Uni/Communications*Engineering*SE/GitHub*
 Rep/Tans/CE/TAN/TAN.tex
@@ -194,7 +194,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 \usepackage
+l.11 \usepackage
                 [ngerman]{babel}
 The package inputenc has already been loaded with options:
   [latin1]
@@ -226,19 +226,21 @@ File: babel.def 2008/07/06 v3.8l Babel common definitions
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-No file TAN.aux.
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+("C:\Users\Jakob\Documents\My Dropbox\Uni\Communications Engineering SE\GitHub 
+Rep\Tans\CE\TAN\TAN.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
 ("C:\Program Files\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count117
@@ -252,37 +254,41 @@ LaTeX Font Info:    ... okay on input line 16.
 \MPnumerator=\count121
 \everyMPtoPDFconversion=\toks23
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 35.
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
  ("C:\Program Files\MiKTeX 2.8\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 35.
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
 ("C:\Program Files\MiKTeX 2.8\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 35.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 34.
 
 ("C:\Program Files\MiKTeX 2.8\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ) [1
 
 
-{C:/Users/Jakob/AppData/Local/MiKTeX/2.8/pdftex/config/pdftex.map}] [2]
+{C:/Users/Jakob/AppData/Local/MiKTeX/2.8/pdftex/config/pdftex.map}]
+No file TAN.toc.
+\tf@toc=\write3
+[2
+
+] [3]
 ! Double superscript.
-l.78 $$F^n^
+l.81 $$F^n^
            -^1(x),..., F(F(F(F(x))), F(F(x))), F(x), x$$
 I treat `x^1^2' essentially like `x^1{}^2'.
 
 ! Double superscript.
-l.78 $$F^n^-^
+l.81 $$F^n^-^
              1(x),..., F(F(F(F(x))), F(F(x))), F(x), x$$
 I treat `x^1^2' essentially like `x^1{}^2'.
 
-[3] <SKEY.jpg, id=23, 375.65344pt x 246.1697pt>
+<SKEY.jpg, id=18, 375.65344pt x 246.1697pt>
 File: SKEY.jpg Graphic file (type jpg)
- <use SKEY.jpg> [4 <C:/Users/Jakob/Documents/My Dropbox/Uni/Communications Engi
-neering SE/GitHub Rep/Tans/CE/TAN/SKEY.jpg>]
+ <use SKEY.jpg> [4]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -290,120 +296,121 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.100 \\F
-         ?r die Authentifizierung des Clients zum Server werden ausschlie?li...
+l.103 \\F
+         ür die Authentifizierung des Clients zum Server werden ausschließli...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[5 <C:/Users/Jakob/Documents/My Dropbox/Uni/Communications Engineering SE/GitHu
+b Rep/Tans/CE/TAN/SKEY.jpg>]
 ! Double superscript.
-l.104 $p_i=f^i(s|k)=f(f^(^
+l.107 $p_i=f^i(s|k)=f(f^(^
                           i^-^1^)(s|k))=f(p_i_-_1)$
 I treat `x^1^2' essentially like `x^1{}^2'.
 
 ! Double superscript.
-l.104 $p_i=f^i(s|k)=f(f^(^i^
+l.107 $p_i=f^i(s|k)=f(f^(^i^
                             -^1^)(s|k))=f(p_i_-_1)$
 I treat `x^1^2' essentially like `x^1{}^2'.
 
 ! Double superscript.
-l.104 $p_i=f^i(s|k)=f(f^(^i^-^
+l.107 $p_i=f^i(s|k)=f(f^(^i^-^
                               1^)(s|k))=f(p_i_-_1)$
 I treat `x^1^2' essentially like `x^1{}^2'.
 
 ! Double superscript.
-l.104 $p_i=f^i(s|k)=f(f^(^i^-^1^
+l.107 $p_i=f^i(s|k)=f(f^(^i^-^1^
                                 )(s|k))=f(p_i_-_1)$
 I treat `x^1^2' essentially like `x^1{}^2'.
 
 ! Double subscript.
-l.104 $p_i=f^i(s|k)=f(f^(^i^-^1^)(s|k))=f(p_i_
+l.107 $p_i=f^i(s|k)=f(f^(^i^-^1^)(s|k))=f(p_i_
                                               -_1)$
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Double subscript.
-l.104 $p_i=f^i(s|k)=f(f^(^i^-^1^)(s|k))=f(p_i_-_
+l.107 $p_i=f^i(s|k)=f(f^(^i^-^1^)(s|k))=f(p_i_-_
                                                 1)$
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Double subscript.
-l.108 $f(p_i_
+l.111 $f(p_i_
              -_1)=p_i$
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Double subscript.
-l.108 $f(p_i_-_
+l.111 $f(p_i_-_
                1)=p_i$
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Double subscript.
-l.111 ...p_i$ durch das verbrauchte Passwort $p_i_
+l.114 ...p_i$ durch das verbrauchte Passwort $p_i_
                                                   -_1$ und erniedrigt seinen...
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Double subscript.
-l.111 ...i$ durch das verbrauchte Passwort $p_i_-_
+l.114 ...i$ durch das verbrauchte Passwort $p_i_-_
                                                   1$ und erniedrigt seinen S...
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
 ! Double subscript.
-l.115 $p_i_
+l.118 $p_i_
            -_1=f^-^1(p_i)$
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Double subscript.
-l.115 $p_i_-_
+l.118 $p_i_-_
              1=f^-^1(p_i)$
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Double superscript.
-l.115 $p_i_-_1=f^-^
+l.118 $p_i_-_1=f^-^
                    1(p_i)$
 I treat `x^1^2' essentially like `x^1{}^2'.
 
-[5]
 ! Double superscript.
-l.121 $f^r^
+l.124 $f^r^
            -^j(p_j)=p_r$
 I treat `x^1^2' essentially like `x^1{}^2'.
 
 ! Double superscript.
-l.121 $f^r^-^
+l.124 $f^r^-^
              j(p_j)=p_r$
 I treat `x^1^2' essentially like `x^1{}^2'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--166
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--166
-
- []
-
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 167--174
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--174
+Underfull \hbox (badness 10000) in paragraph at lines 155--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--169
 
  []
 
 [7]
+Underfull \hbox (badness 10000) in paragraph at lines 170--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--177
+
+ []
+
+[8]
 ("C:\Users\Jakob\Documents\My Dropbox\Uni\Communications Engineering SE\GitHub 
 Rep\Tans\CE\TAN\TAN.aux")
 
@@ -411,13 +418,13 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 2355 strings out of 495285
- 28484 string characters out of 3180394
- 88630 words of memory out of 3000000
+ 2358 strings out of 495285
+ 28688 string characters out of 3180394
+ 89638 words of memory out of 3000000
  5536 multiletter control sequences out of 15000+200000
  14917 words of font info for 43 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,6n,24p,1334b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,6n,24p,1341b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Jakob\AppData\Local\MiKTeX\2.8\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecbx1000.pk> <C:\Users\Jakob\AppData\Local\MiKTeX\2.8\fonts\pk\ljfour\jknappen\
 ec\dpi600\ecbx1200.pk> <C:\Users\Jakob\AppData\Local\MiKTeX\2.8\fonts\pk\ljfour
@@ -432,9 +439,9 @@ es/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX
 s/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/ams
 fonts/cm/cmsy7.pfb>
-Output written on TAN.pdf (7 pages, 182096 bytes).
+Output written on TAN.pdf (8 pages, 189036 bytes).
 PDF statistics:
- 346 PDF objects out of 1000 (max. 8388607)
+ 364 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

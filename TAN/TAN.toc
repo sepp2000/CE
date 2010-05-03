@@ -1,0 +1,20 @@
+\contentsline {title}{Lecture Notes in Computer Science}{1}
+\authcount {1}
+\contentsline {author}{Authors' Instructions}{1}
+\contentsline {section}{\numberline {1}Einleitung}{2}
+\contentsline {section}{\numberline {2}Grundlagen}{2}
+\contentsline {subsection}{\numberline {2.1}Arten der Authentifizierung}{2}
+\contentsline {subsection}{\numberline {2.2}Konzepte zur Generierung von Einmalpassw\"ortern}{3}
+\contentsline {subsubsection}{Einweg-Hashfunktionen}{3}
+\contentsline {subsubsection}{The S/Key One-Time Password System}{4}
+\contentsline {subsubsection}{Challange Response}{7}
+\contentsline {subsubsection}{Zeitbasierend}{7}
+\contentsline {section}{\numberline {3}Generierung und Verteilung}{7}
+\contentsline {subsection}{\numberline {3.1}TAN - Liste}{7}
+\contentsline {subsection}{\numberline {3.2}SMS}{7}
+\contentsline {subsection}{\numberline {3.3}Mobiltelefon}{7}
+\contentsline {subsection}{\numberline {3.4}Tokens}{7}
+\contentsline {subsection}{\numberline {3.5}Einordnung und Vergleich der Technologie}{7}
+\contentsline {section}{\numberline {4}Anwendung}{7}
+\contentsline {section}{\numberline {5}Fazit}{8}
+\contentsline {section}{\numberline {6}Quellen}{8}

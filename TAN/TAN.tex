@@ -12,6 +12,21 @@
 \usepackage{url}
 \newcommand{\keywords}[1]{\par\addvspace\baselineskip\noindent\keywordname\enspace\ignorespaces#1}
 
+% 		INHALTSVERZEICHNIS ÜBERSICHT
+% Einleitung
+% Grundlagen
+% 	Arten der Authentifizierung
+% 	Konzepte zur Generierung von Einmalpasswörtern
+% 		Einweg-Hashfunktionen
+% 		The S/Key One-Time Password System
+% 		Challenge Response
+% 		Zeitbasierend
+% Generierung und Verteilung
+% 	Indizierte TAN-Liste (iTAN)
+% 	Mobile TAN (mTAN)
+% 	TAN-Generatoren (Token)
+%		
+
 \begin{document}
 
 \mainmatter  % start of an individual contribution
@@ -19,9 +34,7 @@
 % first the title is needed
 \title{Einmalpasswörter (TANs) - Grundlagen, Anwendungen, Generierung}
 
-
 % the name(s) of the author(s) follow(s) next
-%
 \author{Jakob Lehner, Andreas Riedler}
 
 \institute{Communication Engineering, Institut für Wirtschaftsinformatik\\
@@ -42,14 +55,17 @@ In dieser Seminararbeit werden die Grundlagen und Anwendungen von TAN-Verfahren 
 
 \section{Einleitung}
 Bussiness Services; Was sind Business Services? Warum ist Business Services wichtig?
-Um die Sicherheit von Business Services speziell im Kontext des eCommerce zu erhöhen, setzen Banken, Regierungen und andere sicherheitssensitive Industrien Einmalpasswörter ein. Bei einer Authentifikation mit Einmalpasswörtern, besitzen die Benutzer mehrere Passwörter, welche jedoch nur einmal verwendet werden.  Welche Vorteile bringt das?\\
+%Wenn wir das Wort Busienss Services durch Authentifikation im Internet oder Sicherheit von Transaktionen schreiben müssen wir es nicht erklären. Es gibt zwar auch in der deutschen Wikipedia eine Definition dafür scheint aber so als hätte sich der Begriff noch nicht so ganz durchgesetzt.
+Um die Sicherheit von Business Services speziell im Kontext des eCommerce zu erhöhen, setzen Banken, Regierungen und andere sicherheitssensitive Industrien Einmalpasswörter ein. Bei einer Authentifikation mit Einmalpasswörtern, besitzen die Benutzer mehrere Passwörter, welche jedoch nur einmal verwendet werden.
+%Trifft ja eig. nur bei der iTAN Liste zu oder? Bei Tokens, mTANs usw. werden die ja erst generiert.
+Welche Vorteile bringt das?\\
 Ziel dieser Arbeit ist es Grundlagen, Konzepte zur Generierung und Anwendungen von Einmalpasswörtern zu erläutern. Zu Beginn werden die wesentlichen Grundlagen und anschließend die gängigsten Verfahren zur Generierung und Verteilung von Einmalpasswörtern vor- und gegenübergestellt. Zum Abschluss der Arbeit wird anhand eines konkreten Anwendungsgebietes der Einsatz von Einmalpasswörtern aufgezeigt. 
 
 Bei den Verfahren noch rückbeziehen auf Grundlagen?
 \section{Grundlagen}
 In diesem Teil der Arbeit sollen die grundlegenden Konzepte zur Authentifizierung mit Einmalpasswörtern erläutert werden. Dazu werden zu Beginn die Arten der Authentifizierung vorgestellt und wie Einmalpasswörter einzuordnen sind. Im Anschluss werden die verschiedenen Konzepte zur Generierung von Einmalpasswörtern vorgestellt.   
 \subsection{Arten der Authentifizierung}
-Die Unterscheidung von Authentifizierungsmechanismen erfolgt in der Regel in die drei Arten Wissen, Besitz und körperliche Merkmale. Bei einer Authentifizierung mittels Wissen hat der Benutzer sicherzustellen, dass er über ein bestimmtes Wissen verfügt. Dies ist in der Regel ein Passwort, eine Personal Identification Number(PIN) oder ein kryptographische Geheimnisses. Von einer Authentifizierung durch Besitz spricht man, wenn der Benutzer den Besitz einer bestimmten Sache belegen kann. Dabei muss es sich nicht nur um physische Sache wie Chipkarten oder Tokens sondern auch Software, welche ein gültiges Passwort für die Authentifizierung erzeugt, ist eine solche Sache. %Ist eine solche Sache eventuell löschen?
+Die Unterscheidung von Authentifizierungsmechanismen erfolgt in der Regel in die drei Arten Wissen, Besitz und körperliche Merkmale. Bei einer Authentifizierung mittels Wissen hat der Benutzer sicherzustellen, dass er über ein bestimmtes Wissen verfügt. Dies ist in der Regel ein Passwort, eine Personal Identification Number(PIN) oder ein kryptographische Geheimnisses. Von einer Authentifizierung durch Besitz spricht man, wenn der Benutzer den Besitz einer bestimmten Sache belegen kann. Dabei muss es sich nicht nur um physische Sache wie Chipkarten oder Tokens sondern auch Software, welche ein gültiges Passwort für die Authentifizierung erzeugt, ist eine solche Sache. %'Ist eine solche Sache' eventuell löschen?
 Erfolgt die Authentifizierung über körperliche Merkmale muss sich der Benutzer über biometrische Mechanismen wie Fingerabdruckscan oder Stimmanalyse zu erkennen geben.[1] Jede dieser Arten zur Authentifizierung bietet unterschiedliche Vor- und Nachteile hinsichtlich Komplexität, Sicherheit und Benutzerfreundlichkeit. Auf diese Aspekte wird in dieser Arbeit jedoch nur hinsichtlich Einmalpasswörtern und in einem der folgenden Kapitel eingegangen.
 
 Wird nur eine der drei genannten Arten zur Authentifizierung verwendet, so spricht man von einer Single-Factor-Authentication. Dies ist der Fall wenn die Authentifizierung nur durch die Eingabe eines Passwortes erfolgt. Single-Factor-Authentication ist die schwächste Form der Authentifizierung da ein Passwort ausspioniert, ein Token gestohlen oder ein Fingerabdruck nachgemacht werden kann. Werden hingegen zwei Arten der Authentifizierung miteinander kombiniert, nennt man dies eine Two-Factor-Authentication. Durch Hinzufügen eines zweiten Indetifiers wird die Sicherheit des Authentifizierungsprozesses erhöht. Zum Beispiel kann eine Authentifizierung mittels Passwort und Token erfolgt. Somit muss der Benutzer zusätzlich zu dem Wissen(Passwort) eine Sache(Token) besitzen. Von einer Three-Factor-Authentication spricht man wenn alle drei Arten zusammen eingesetzt werden. Typischerweise ist, zusätzlich zu Passwort und Token, die biometrische Indetifikation der dritte Faktor bei einer Three-Factor-Authentication. Dies ist die stärkste Form der Authentifizierung, da der Benutzer zusätzlich zu Wissen(Passwort) und Sache(Token) auch die biometrischen Merkmale haben muss um eine Authentifizierung durchführen zu können.[2]
@@ -132,7 +148,7 @@ Mitchel: Comments on the SKEY user authentication scheme
 Claudia Eckert: IT Sicherheit OTP-Tokens/RSA SecurID
 
 \section{Generierung und Verteilung}
-
+Papers in meinem new Ordner!
 \subsection{TAN - Liste}
 TAN Liste, iTAN
 \subsection{SMS}
